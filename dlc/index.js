@@ -25,7 +25,7 @@
         "file": "tr011040.dlc", 
         "title": "tr",
         "buttons": [
-            { "title": "tr ", "action": [75,0,8,8] }
+            { "title": "tr ", "action": [75,0,8,9] }
         ]
     }
 ]
