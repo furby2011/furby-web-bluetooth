@@ -1,7 +1,8 @@
 # FurBLE - Furby Web Bluetooth Demo
 Use Web Bluetooth to control your Furby Connect! Tested with Chrome for Android.
 
-## [Try it out](https://furby2011.github.io/furby-web-bluetooth/furble.html)  or read [our blog](https://www.contextis.com/blog/dont-feed-them-after-midnight-reverse-engineering-the-furby-connect)
+## [Try it out](https://furby2011
+.github.io/furby-web-bluetooth/furble.html)  or read [our blog](https://www.contextis.com/blog/dont-feed-them-after-midnight-reverse-engineering-the-furby-connect)
 
 <img src="images/furby1.jpg" width="500">
 
