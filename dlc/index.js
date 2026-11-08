@@ -15,17 +15,17 @@
         ]
     },
     {
-        "file": "noimg2.dlc", 
-        "title": "Audio only",
+        "file": "tr010970.dlc", 
+        "title": "tr2",
         "buttons": [
-            { "title": "Audio test ", "action": [75,0,4,4] }
+            { "title": "Audio test ", "action": [75,0,8,7] }
         ]
     },
     {
-        "file": "chilli.dlc", 
-        "title": "Chilli",
+        "file": "tr011040.dlc", 
+        "title": "tr",
         "buttons": [
-            { "title": "Chilli ", "action": [75,0,4,4] }
+            { "title": "tr ", "action": [75,0,8,8] }
         ]
     }
 ]
