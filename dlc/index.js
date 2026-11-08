@@ -25,7 +25,7 @@
         "file": "2.dlc", 
         "title": "2",
         "buttons": [
-            { "title": "tr ", "action": [75,0,0,2] }
+            { "title": "tr ", "action": [75,0,0,3] }
         ]
     }
 ]
