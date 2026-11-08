@@ -15,17 +15,17 @@
         ]
     },
     {
-        "file": "tr010970.dlc", 
-        "title": "tr2",
+        "file": "1.dlc", 
+        "title": "1",
         "buttons": [
-            { "title": "Audio test ", "action": [75,0,8,7] }
+            { "title": "Audio test ", "action": [75,0,0,1] }
         ]
     },
     {
-        "file": "tr011040.dlc", 
-        "title": "tr",
+        "file": "2.dlc", 
+        "title": "2",
         "buttons": [
-            { "title": "tr ", "action": [75,0,8,9] }
+            { "title": "tr ", "action": [75,0,0,2] }
         ]
     }
 ]
