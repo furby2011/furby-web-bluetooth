@@ -15,10 +15,10 @@
         ]
     },
     {
-        "file": "1.dlc", 
-        "title": "1",
+        "file": "call.dlc", 
+        "title": "call",
         "buttons": [
-            { "title": "Audio test ", "action": [75,0,0,1] }
+            { "title": "Audio test ", "action": [74,9,9,9] }
         ]
     },
     {
