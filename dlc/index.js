@@ -7,10 +7,10 @@
         ]
     },
     { 
-        "file": "tu022140.dlc", 
-        "title": "tu022140",
+        "file": "chilli.dlc", 
+        "title": "chilli",
         "buttons": [
-            { "title": "tu022140", "action": [75,0,3,4] }
+            { "title": "chilli", "action": [75,0,3,4] }
         ]
     },
     {
