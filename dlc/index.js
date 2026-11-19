@@ -7,24 +7,24 @@
         ]
     },
     { 
-        "file": "chilli.dlc", 
-        "title": "chilli",
+        "file": "1.dlc", 
+        "title": "1",
         "buttons": [
-            { "title": "chilli", "action": [75,0,3,4] }
+            { "title": "1", "action": [99,0,9,9] }
         ]
     },
     {
-        "file": "cake.dlc", 
-        "title": "cake",
+        "file": "2.dlc", 
+        "title": "2",
         "buttons": [
-            { "title": "Audio test ", "action": [74,9,9,9] }
+            { "title": "3", "action": [99,9,9,9] }
         ]
     },
     {
-        "file": "sia.dlc", 
-        "title": "sia",
+        "file": "3.dlc", 
+        "title": "3",
         "buttons": [
-            { "title": "tr ", "action": [74,9,9,8] }
+            { "title": "3 ", "action": [74,9,9,8] }
         ]
     }
 ]
