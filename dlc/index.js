@@ -7,17 +7,17 @@
         ]
     },
     { 
-        "file": "1.dlc", 
-        "title": "1",
+        "file": "4.dlc", 
+        "title": "4",
         "buttons": [
-            { "title": "1", "action": [99,0,9,9] }
+            { "title": "4", "action": [16,9,1,0] }
         ]
     },
     {
-        "file": "2.dlc", 
-        "title": "2",
+        "file": "5.dlc", 
+        "title": "5",
         "buttons": [
-            { "title": "3", "action": [99,9,9,9] }
+            { "title": "5", "action": [17,9,0,9] }
         ]
     },
     {
